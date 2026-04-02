@@ -34,6 +34,17 @@
             "imageWidth": 76
           }
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Cinzel-Regular.otf",
+            "./assets/fonts/Cinzel-Bold.otf",
+            "./assets/fonts/Roboto-Regular.ttf",
+            "./assets/fonts/Roboto-Bold.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
