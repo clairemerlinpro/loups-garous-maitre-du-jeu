@@ -59,5 +59,6 @@ const styles = StyleSheet.create({
   nav: {
     width: "100%",
     alignItems: "center",
+    gap: 12,
   },
 });
